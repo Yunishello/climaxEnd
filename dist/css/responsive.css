@@ -1,0 +1,16 @@
+@media (max-width: 425px) {
+  .img {
+    width: auto;
+    height: 40px;
+  }
+
+  .pad-t {
+    padding-top: 40px;
+  }
+
+  .gallery {
+      padding-top: -30px;
+      width: auto;
+      height: auto;
+  }
+}

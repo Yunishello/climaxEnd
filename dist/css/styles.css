@@ -1,0 +1,42 @@
+body {
+  padding-bottom: 0rem;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding-right: 5rem;
+  padding-left: 0.5rem;
+}
+
+.bg-primary {
+  background-color: #0dcafc !important;
+}
+
+.active {
+  color: #084239 !important;
+}
+
+.nav-link {
+  color: #0bf3ed;
+}
+
+.text-primary {
+  color: #0bf3ed !important;
+}
+
+.text-underline {
+  border-bottom: solid #0bf3ed medium;
+}
+
+.btn-primary {
+  background-color: #084239 !important;
+  border: none !important;
+}
+
+.img {
+  width: 70px;
+  height: 70px;
+}
+
+.shadow-red {
+  box-shadow: #f00;
+}
